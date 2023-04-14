@@ -16,19 +16,19 @@ How well can we predict future instance of stroke, and what data is relevant?
 - Using 5 different machine learning models to predict future instance of stroke.
 
 # Results
-<b>Age of Stroke Victims</b>
+<b>Age of Stroke Victims</b><br>
 ![image](https://user-images.githubusercontent.com/123199534/232090578-2e158b7d-7c53-4ccf-b2fa-6d9d5157bd8c.png)
 - The youngest stroke victim was 14 years old
 - The average age of stroke victims is about 68 years old
 - Most stroke victims are over the age of 58
 
-<b>Instance of Stroke and Hypertension in Stroke Victims</b>
+<b>Instance of Stroke and Hypertension in Stroke Victims</b><br>
 ![image](https://user-images.githubusercontent.com/123199534/232090806-99ee252f-cd28-4f05-a52f-ffd5b9eb16cd.png)
 ![image](https://user-images.githubusercontent.com/123199534/232090853-ead06569-913e-4d37-ae12-0a37edc9b2db.png)
 - Most stroke victims neither have hypertension or heart disease
 - Only 11 of 209 stroke victims, approx. 5%, had both hypertension and heart disease
 
-<b>Overall BMI vs. BMI of Stroke Victims</b>
+<b>Overall BMI vs. BMI of Stroke Victims</b><br>
 ![image](https://user-images.githubusercontent.com/123199534/232091286-06360d38-21df-4471-988b-00acddc72b12.png)
 - Here we see BMI by age.
 - According to the Centers for Disease Control and Prevention (CDC), a healthy BMI ranges from 18.5 to 24.9 ([source](https://www.cdc.gov/healthyweight/assessing/index.html#:~:text=If%20your%20BMI%20is%20less,falls%20within%20the%20overweight%20range))
