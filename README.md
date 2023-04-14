@@ -48,7 +48,7 @@ How well can we predict future instance of stroke, and what data is relevant?
 
 - I will use the Logistic Regression Model with PCA as my production model.
 - Though only 71% accurate (as compared to the 79% accuracy with the tuned Logistic Regression Model with PCA), I have chosen this model for its lower instances of false negatives.
-- While predicting a stroke, while important to accurately predict the possibility of a stroke, it is also very important to lower the chances of any false negatives. A false negative in this case is not predicting a stroke, but having one.
+- In predicting a stroke, while important to accurately predict the possibility of a stroke, it is also very important to lower the chances of any false negatives. A false negative in this case is not predicting a stroke, but having one.
 - Though the Balanced Random Forest Classifier Model without PCA has the lowest number of false positives, it also has a lower accuracy and less true positives.
 > In this case, a true positive is predicting a stroke correctly, which is our target. Though we have less false negatives, we also have less correct predictions of stroke.
 
