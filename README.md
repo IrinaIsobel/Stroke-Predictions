@@ -34,7 +34,7 @@ How well can we predict future instance of stroke, and what data is relevant?
 - According to the Centers for Disease Control and Prevention (CDC), a healthy BMI ranges from 18.5 to 24.9 ([source](https://www.cdc.gov/healthyweight/assessing/index.html#:~:text=If%20your%20BMI%20is%20less,falls%20within%20the%20overweight%20range))
 - BMI seems to rise slightly starting at age 30, then begins to fall slightly around age 65.
 
-  ![image](https://user-images.githubusercontent.com/123199534/232092085-63d4885b-a2dd-43e6-b5a4-a666788440ce.png)
+ ![stroke bmi](https://user-images.githubusercontent.com/123199534/232100484-73067612-56ea-4fa5-9fba-34921f357ca7.png)
 - Most stroke victims have a BMI of 25 or higher - approximately 82.8%
 - When we group by gender, we see stroke occurences start earlier in females. This could be due to the higher amount of data we have received from females.
 - The highest density of stroke occurences are from ages 75 - 85.
