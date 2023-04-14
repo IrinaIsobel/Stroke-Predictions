@@ -55,6 +55,7 @@ How well can we predict future instance of stroke, and what data is relevant?
 
 ### Recommendations:
 - Gathering more data on stroke victims
+- Gathering more balanced data in gender
 - Monitor older populations with higher than average BMI
 
 <b>For further information</b>
