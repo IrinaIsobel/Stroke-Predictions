@@ -25,7 +25,7 @@ How well can we predict future instance of stroke, and what data is relevant?
 <b>Instance of Stroke and Hypertension in Stroke Victims</b>
 ![image](https://user-images.githubusercontent.com/123199534/232090806-99ee252f-cd28-4f05-a52f-ffd5b9eb16cd.png)
 ![image](https://user-images.githubusercontent.com/123199534/232090853-ead06569-913e-4d37-ae12-0a37edc9b2db.png)
-- Most stroke victims neither has hypertension or heart disease
+- Most stroke victims neither have hypertension or heart disease
 - Only 11 of 209 stroke victims, approx. 5%, had both hypertension and heart disease
 
 <b>Overall BMI vs. BMI of Stroke Victims</b>
