@@ -13,7 +13,7 @@ How well can we predict future instance of stroke, and what data is relevant?
 - Dropping 19 instances of infants under the age of 1 who have not experienced a stroke
 - Visual analysis - using graphs to visually understand numerical data
 - Exploring correlations between data, and exploring stroke victims within certain variables 
-- Using machine learning classification models with and without feature modification to predict future instance of stroke.
+- Using 5 different machine learning models to predict future instance of stroke.
 
 # Results
 <b>Age of Stroke Victims</b>
